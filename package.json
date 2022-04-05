@@ -1,14 +1,14 @@
 {
-    "name": "webview-electron",
+    "name": "webview",
     "version": "1.0.0",
-    "description": "",
+    "description": "Simple browser",
     "main": "main.js",
     "scripts": {
         "start": "electron ."
     },
     "keywords": [],
     "author": "",
-    "license": "ISC",
+    "license": "MIT",
     "dependencies": {
         "electron": "^18.0.0"
     }
